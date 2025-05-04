@@ -76,7 +76,7 @@ The flow of user interaction:
 
 2. **Clone the Repository**
    ```bash
-   git clone -b local https://github.com/yourusername/vprofile-project.git
+   git clone -b local https://github.com/hkhcoder/vprofile-project
    cd vprofile-project/vagrant
    ```
 
