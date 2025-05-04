@@ -22,6 +22,7 @@ The **VProfile Project** is a local multi-tier web application stack setup desig
 ---
 
 ## 🧱 Architecture Overview
+![Image](https://github.com/user-attachments/assets/ea3c2ee3-0ce7-4745-8f19-9df14d51ec5b)
 
 ### 🌐 Web Application Stack Components
 
@@ -134,6 +135,6 @@ Have suggestions or want to improve the setup? Feel free to fork the repo and su
 
 ---
 
-## 📝 License
+## 📝 License and reference
 
-This project is licensed under the [MIT License](LICENSE).
+This project was referenced from https://github.com/hkhcoder/vprofile-project
